@@ -6,4 +6,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of SeqFromMarkers is to …
+The goal of `SeqFromMarkers` is create functions to analyze Forensic
+markers.
