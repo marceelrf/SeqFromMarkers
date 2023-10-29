@@ -1,0 +1,7 @@
+createBED(df = facial_feat,path = "BED_files/")
+createBED(df = hair_colour,path = "BED_files/")
+createBED(df = hair_shape,path = "BED_files/")
+createBED(df = skin_colour,path = "BED_files/")
+createBED(df = eye_colour,path = "BED_files/")
+createBED(df = baldness,path = "BED_files/")
+createBED(df = body_height,path = "BED_files/")
